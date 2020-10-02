@@ -278,7 +278,9 @@
         },
         CustomRendered : {
             0 : "Normal process",
-            1 : "Custom process"
+            1 : "Custom process",
+            3 : "HDR",
+            6 : "Panorama"
         },
         WhiteBalance : {
             0 : "Auto white balance",
